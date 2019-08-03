@@ -1,2 +1,2 @@
 # Personal website
-Website jelle.revyn.xyz
+jelle.revyn.xyz
