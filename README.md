@@ -1,2 +1,2 @@
 # Personal website
-**jelle.revyn.xyz**
+**contact.jelle.revyn.xyz** || **revyn.xyz**
